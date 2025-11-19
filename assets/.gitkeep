@@ -1,0 +1,10 @@
+# Assets Directory
+
+Place your images here:
+- tevin.svg - Placeholder profile photo (replace with your actual photo: tevin.jpg, tevin.png, etc.)
+- project1.jpg, project2.jpg, etc. - Project thumbnails (800x600px recommended)
+- Logo images for certifications (optional)
+
+All images should be optimized for web use.
+
+Note: When you add your actual profile photo, update the src in index.html and js/data.js
