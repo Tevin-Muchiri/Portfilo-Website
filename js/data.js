@@ -34,8 +34,8 @@ const experiences = [
     id: "exp1",
     company: "Strathmore University",
     role: "Lab Assistant",
-    duration: "Jun 2024 - Present",
-    startDate: new Date("2024-06-01"),
+    duration: "Jun 2025 - Present",
+    startDate: new Date("2025-06-01"),
     endDate: null,
     description: [
       "Organized and invigilated practical lessons and examinations, ensuring smooth operations for 60+ students per session",
